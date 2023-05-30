@@ -1,4 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+@font-face {
+    font-family: "Monstserrat-Black";
+    src: url("../assets/fonts/Montserrat-Black.otf");
+}
 
 /* ============RESET GENERAL================ */
 
@@ -39,7 +43,7 @@ body {
 /* ============SLIDER DE IMAGENES================ */
 
 .carousel-inner{
-    max-height:39rem;
+    max-height:50rem;
 }
 
 /* ============SECCION NUESTRO EQUIPO BUENOS AIRES================ */
